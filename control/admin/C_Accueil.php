@@ -1,0 +1,1 @@
+<?php include_once("./view/admin/V_Accueil.php"); ?>
